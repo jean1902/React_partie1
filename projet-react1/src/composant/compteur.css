@@ -1,0 +1,28 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn{
+    padding: 5px 20px;
+    background-color: darkslateblue;
+    border: none;
+    outline: none;
+    outline-offset: none;
+    cursor: pointer;
+   margin: 1px;
+   color: white;
+   font-weight: bold;
+}
+.btn.erreur{
+    color: red;
+}
+.btn:hover{
+    background-color: maroon;
+    transition:background-color 0.9s ease-in-out;
+    border-radius: 4px;
+}
+.add-cart{
+    margin: 30px auto;
+    max-width: 600px;
+} */
